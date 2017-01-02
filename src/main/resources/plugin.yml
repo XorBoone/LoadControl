@@ -1,0 +1,4 @@
+name: LoadControl
+main: net.xornick.loadcontrol.LoadControl
+version: 1.0
+author: XorNick
